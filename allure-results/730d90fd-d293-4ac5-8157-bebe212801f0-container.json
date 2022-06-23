@@ -1,0 +1,1 @@
+{"uuid":"730d90fd-d293-4ac5-8157-bebe212801f0","name":"hybrid_bankguru_framework","children":["450a799e-073a-49cb-819a-6049a0e4a039"],"befores":[{"name":"beforeTest","status":"broken","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1654665831761,"stop":1654665831763}],"afters":[],"start":1654665831488,"stop":1654665831783}
