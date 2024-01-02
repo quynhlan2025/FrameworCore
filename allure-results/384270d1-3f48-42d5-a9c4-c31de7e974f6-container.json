@@ -1,1 +1,0 @@
-{"uuid":"384270d1-3f48-42d5-a9c4-c31de7e974f6","name":"testcase.com.facbook.LoginFacebook","children":["c19d87da-63b2-40a2-b8d0-0ad0a8fb243e"],"befores":[],"afters":[{"name":"afterClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1654604319945,"stop":1654604320141}],"start":1654604311666,"stop":1654604320156}
