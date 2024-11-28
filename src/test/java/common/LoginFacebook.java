@@ -18,7 +18,7 @@ public class LoginFacebook extends BaseTest {
         driver = getDriver();
         login = new LoginPageObject(driver);
         login.enterEmail(driver, "lan@ziggedy.com");
-        login.enterPassword(driver, "vc111!!!");
+        login.enterPassword(driver, "xxxxxxx");
         login.loginButton(driver);
         Assert.assertTrue(login.isLOGOFaceBookDisplayed(driver));
         allCookies = login.getAllCookie(driver);
